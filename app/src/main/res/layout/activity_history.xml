@@ -1,0 +1,183 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.fran.chuckfacts.controllers.HistoryActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollViewHistory">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtTitolHistoria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/titol_historia"
+                android:textColor="@color/black"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="180dp"
+                    android:id="@+id/imageViewChuckBoy"
+                    android:src="@drawable/cn_boy"
+                    android:layout_marginRight="10dp" />
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/txtContingutHistoria2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/content_historia2"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="15dp"
+                        android:gravity="center_horizontal"/>
+
+                    <TextView
+                        android:id="@+id/txtContingutHistoria3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/content_historia3"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="15dp"
+                        android:gravity="center_horizontal"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia4"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia5"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia6"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia7"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia8"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia9"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia10"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia11"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia12"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/txtContingutHistoria13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/content_historia13"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="15dp" />
+
+            <ImageView
+                android:id="@+id/imageViewCNHappy"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:src="@drawable/cn_happy"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/chuck_happy" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

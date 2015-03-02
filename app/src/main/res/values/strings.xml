@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chuck Facts</string>
+    <string name="action_conf">Configuració</string>
+    <string name="action_save">Desar fet</string>
+    <string name="action_new">Nou fet</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="confirm_delete">Estàs segur que vols eliminar aquest fet?</string>
+    <string name="confirm_new">El fet s\'ha afegit satisfactòriament</string>
+    <string name="ok">D\'acord</string>
+    <string name="cancel">Cancela</string>
+    <string name="action_share">Compartir</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="chuck_load">Loading...</string>
+    <string name="chuck_fact">Chuck fact.</string>
+    <string name="text_titol">Fact title</string>
+    <string name="text_contingut">Fact content</string>
+    <string name="new_title">Títol del fet: </string>
+    <string name="new_content">Contingut: </string>
+    <string name="the_fact">The fact</string>
+    <string name="title_activity_main">Chuck Facts</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnHistory">Història</string>
+    <string name="btnFacts">Els fets</string>
+    <string name="chuck_evo">Chuck evolution</string>
+    <string name="title_activity_history">La seva història</string>
+    <string name="titol_historia">Chuck Norris, un exemple a seguir</string>
+    <string name="content_historia1">Carlos Ray Norris. Nascut a Ryan, Oklahoma (USA) el 10 de Març del 1940.</string>
+    <string name="content_historia2">Fill de mare Irlandesa i pare Cherokee. Va tenir un naixement difícil.</string>
+    <string name="content_historia3">La seva mare es va encarregar de que no els hi faltes de res. Chuck cuidava dels seus dos germans petits: Aaron i Wieland. El seu pare tenia problemes amb l\'alcohol.</string>
+    <string name="content_historia4">2 anys després de graduar-se es va allistar a les Forces Aerees. Destinat a la base d\'Osan a Corea del Sud.</string>
+    <string name="content_historia5">A Corea va descobrir  Tang Soo Do, una variant del Taekwondo. \"Aquests estudis li van canviar la perspectiva de la vida\".</string>
+    <string name="content_historia6">Al 1962 torna a USA després d\'haver aconseguit el cinturó negre de Taekwondo. Abandona l\'exèrcit.</string>
+    <string name="content_historia7">S\'adona de les seves possibilitats en el món de les arts marcials. 1968 títol de campió de pes mig de Karate, invicte fins que es retira el 1974. 1969 \"Lluitador de l\'any\", en la revista Cinturó Negre.</string>
+    <string name="content_historia8">Al voltant dels 30 anys inicia l\'obertura d\'una cadena d\'escoles d\'arts marcials. La qual va estar apunt de perdre.</string>
+    <string name="content_historia9">Amb 34 anys tenia 32 escoles d\'arts marcials i Campió Mundial durant 6 anys. Però necessitava un canvi en la seva vida...</string>
+    <string name="content_historia10">Steve McQueein l\'anima a provar sort en el cinema. 1977 Breaker!Breaker!.</string>
+    <string name="content_historia11">1984 Desaparecido en Combate (Missing in Action).</string>
+    <string name="content_historia12">1992 crea la fundació KICKSTART KIDS. Actualment, esta formada per més de 6.500 joves.</string>
+    <string name="content_historia13">Avui en dia és un \"feliç vaquer\" que ha aconsseguit totes les  seves metes.</string>
+    <string name="title_activity_new_fact">Nou fet</string>
+    <string name="chuck_happy">Feliç vaquer</string>
+    <string name="chuck_boy">Chuck de petit</string>
+    <string name="no_data">Sense dades</string>
+    <string name="action_accept">D\'acord</string>
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fran.chuckfacts.controllers.FactDetail">
+
+    <item
+        android:id="@+id/item_menu_share"
+        android:title="@string/action_share"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
+</menu>
